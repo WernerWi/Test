@@ -1,10 +1,5 @@
+Avery simple WebServer (WebServer.java) after:
+www.java2s.com/Code/Java/Network-Protocol/ASimpleWebServer.htm
+by Jeff Heaton
 
- * Ein (sehr) einfacher WebServer (WebServer.java) 
-
- * Siehe auch:
-
- * www.java2s.com/Code/Java/Network-Protocol/ASimpleWebServer.htm
-
- * 
-
- * @author Jeff Heaton modifiziert für BlueJ von Werner Winzerling
+modified to BlueJ by Werner Winzerling
